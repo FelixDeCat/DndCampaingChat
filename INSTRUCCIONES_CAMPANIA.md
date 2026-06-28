@@ -38,6 +38,13 @@ Durante la campaña se podrán guardar:
 - Diario de campaña.
 - Decisiones tomadas por el grupo.
 
+## Registro de Hitos Importantes
+
+- Existirá un documento dedicado exclusivamente a registrar acontecimientos de gran relevancia.
+- Este documento no debe utilizarse para registrar eventos menores o detalles cotidianos.
+- Solo se registrarán sucesos que puedan afectar significativamente la historia, el mundo, los personajes o futuras sesiones.
+- Ejemplos: muerte de un personaje, descubrimiento de un artefacto importante, derrota de un villano principal, alianzas trascendentes, cambios políticos relevantes o revelaciones críticas de la trama.
+
 ## Directrices de Interpretación
 
 - Sir Aldric tenderá a actuar con honor, valentía y sentido de justicia.
